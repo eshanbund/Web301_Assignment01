@@ -1,0 +1,14 @@
+
+  .General {
+    font-size: 5.5em; /* 40px/16=2.5em */
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;   
+    line-height: 5px;
+    /* padding: 15px; */
+    margin-top: 0px;
+  }
+
+  .BottomBut {
+    transform: rotate(180deg);
+  }
+
